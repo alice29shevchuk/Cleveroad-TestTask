@@ -1,0 +1,18 @@
+ .coordinates {
+    text-align: left;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 98%;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+  }
+  
+  .lat_lng {
+    font-size: 18px;
+  }
+  .map{
+    margin-left: 10px;
+  }
+  
